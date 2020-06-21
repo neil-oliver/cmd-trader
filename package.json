@@ -1,0 +1,24 @@
+{
+  "name": "trader",
+  "version": "1.0.0",
+  "description": "Crypto Bot Trader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Neil Oliver",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.1",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "minimist": "^1.2.5",
+    "mongodb": "^3.5.9",
+    "node-binance-api": "^0.11.7"
+  }
+}
