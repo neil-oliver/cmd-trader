@@ -4,5 +4,6 @@ module.exports = {
   rankings:['priceChange','priceChangePercent','volume','count'],
   exchanges: ["Binance"],
   preferredBase: "USDT",
-  saveType: "file" // file or db
+  saveType: "file", // file or db
+  repeatMenu: true,
 }
